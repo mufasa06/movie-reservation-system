@@ -4,16 +4,6 @@ A backend movie ticket booking platform built with Node.js, Express.js, PostgreS
 
 The system allows users to browse movies, view showtimes, select seats, make reservations, and manage their bookings. Administrators can manage movies and showtimes, monitor reservations, and view revenue reports.
 
-## Why I Built This
-
-Most beginner backend projects focus on simple CRUD operations. This project was built to explore real-world business logic such as:
-
-* Preventing double booking of seats
-* Managing relationships between movies, halls, showtimes, seats, and reservations
-* Implementing role-based access control
-* Building reporting and analytics endpoints
-* Designing a relational database schema
-
 ## Features
 
 ### User Features
